@@ -1,0 +1,2 @@
+Tic Tac Toe
+Ce jeu se joue généralement sur une grille de 3x3 cases, où deux joueurs s'affrontent en plaçant tour à tour leur symbole (X ou O) dans une des cases vides de la grille. Le but est d'aligner trois de ses propres symboles horizontalement, verticalement ou en diagonale. Le code pour un jeu de Tic Tac Toe inclut souvent des fonctions pour initialiser la grille, gérer les tours des joueurs, vérifier les conditions de victoire ou d'égalité, et afficher l'état actuel du jeu.
